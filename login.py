@@ -14,7 +14,7 @@ usernameLb = Label(root, text='Username:', font=('Poppins', 18))
 
 usernameEt = Entry(root, font=('Poppins', 18))
 
-passwordLb = Label(root, text='password:', font=('Poppins', 18))
+passwordLb = Label(root, text='Password:', font=('Poppins', 18))
 
 passwordEt = Entry(root, font=('Poppins', 18))
 
